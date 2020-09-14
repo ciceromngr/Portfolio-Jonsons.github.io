@@ -341,5 +341,6 @@ a:active,a:focus,a:hover{
 
 div.carousel-item img {
     width: 500px;
+    margin: auto;
 
 }
