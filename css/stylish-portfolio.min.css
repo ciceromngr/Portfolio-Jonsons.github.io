@@ -411,12 +411,12 @@ footer.footer .social-link:hover {
     text-decoration: none
 }
 
-.small,
-small {
-    display: flex;
+.small, small {
+    /* display: flex;
     justify-content: center;
-    width: 70%;
-    position: absolute;
+    width: 55%;
+    position: absolute; */
+    margin: 20px 0 10px 0;
 }
 
 a {
@@ -482,7 +482,7 @@ a:hover {
 }
 
 div.carousel-item img {
-    width: 500px;
+    width: 290px;
     margin: auto;
 }
 
