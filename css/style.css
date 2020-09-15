@@ -1,0 +1,27 @@
+.carousel-slick {
+    color: aliceblue;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    border: 0;
+}
+
+.carousel-slick img {
+    margin: 15px auto;
+    height: 400px;
+    width: 340px;
+    border-radius: 50%;
+}
+
+slick-slide {
+    margin: 0 auto;
+    border: 0;
+}   
+
+.carousel-slick div {
+    border-radius: 20%;
+    background-color: rgba(0, 154, 201, 0.76);
+    display: block;
+    justify-content: center;
+    box-shadow: 4px 7px 10px rgba(0, 45, 245, 0.445);
+}
