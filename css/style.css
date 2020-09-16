@@ -8,7 +8,7 @@
 
 .carousel-slick img {
     margin: 15px auto;
-    height: 400px;
+    height: 340px;
     width: 340px;
     border-radius: 50%;
 }
@@ -19,7 +19,7 @@ slick-slide {
 }   
 
 .carousel-slick div {
-    border-radius: 20%;
+    border-radius: 5%;
     background-color: rgba(0, 154, 201, 0.76);
     display: block;
     justify-content: center;
