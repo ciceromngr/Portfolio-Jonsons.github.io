@@ -25,3 +25,7 @@ slick-slide {
     justify-content: center;
     box-shadow: 4px 7px 10px rgba(0, 45, 245, 0.445);
 }
+
+h2 {
+    margin-top: 9px;
+}
