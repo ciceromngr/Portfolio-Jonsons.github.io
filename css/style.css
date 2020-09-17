@@ -1,15 +1,15 @@
 .carousel-slick {
     color: aliceblue;
     text-align: center;
-    width: 500px;
+    width: 300px;
     margin: 0 auto;
     border: 0;
 }
 
 .carousel-slick img {
     margin: 15px auto;
-    height: 340px;
-    width: 340px;
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
 }
 
